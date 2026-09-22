@@ -1,0 +1,4 @@
+# Cloudflare Tunnel 隧道直连
+DOMAIN-SUFFIX,argotunnel.com,DIRECT
+DOMAIN-KEYWORD,argotunnel,DIRECT
+DOMAIN-SUFFIX,cftunnel.com,DIRECT
